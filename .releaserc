@@ -9,8 +9,6 @@
       "name": "develop",
       "prerelease": "beta",
       "channel": false
-      "prerelease": "beta",
-      "channel": false
     },
     {
       "name": "release/*",
