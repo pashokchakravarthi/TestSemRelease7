@@ -7,11 +7,18 @@
     },
     {
       "name": "develop",
-      "prerelease": "beta"
+      "prerelease": "beta",
+      "channel": false
     },
     {
       "name": "release/*",
-      "prerelease": "rc"
+      "prerelease": "rc",
+      "channel": false
+    },
+    {
+      "name": "hotfix/*",
+      "prerelease": "hf",
+      "channel": false
     }
   ],
   "plugins": [
